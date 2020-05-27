@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I am a legend
+I am a THE LEGEND
 Use the left arrow to go back!
